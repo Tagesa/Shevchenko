@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Observer
+namespace Observer Какая интерсная программа!!! Так хорошо написана!!
 {
     public class Program
     {
